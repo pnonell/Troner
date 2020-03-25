@@ -1,9 +1,7 @@
-# DPO_Practica2_Servidor
+# Troner Server
 
-Proyecto de creación de una versión online del juego Troner, inspirado por la pelicula Tron.
+This is the server of the project. This software is in charge of managing users, rankings and other administrator tasks.
 
-Este el el servidor del juego, se encarga de gestionar los usuarios, ranquings i demas tareas de administrador.
+It allows to create, delete and modify users.
 
-Permite crear eliminar y modificar usuarios.
-
-Para su funcionamiento es necesario utilizar MySQL e importar el esquema de Bases de Datos adjunto con el proyecto, La IP del servidor se printa por pantalla al iniciar el programa.
+For its operation is necessary to use MySQL and import the scheme of databases attached to the project, the IP of the server is printed on the screen when you start the program.
